@@ -20,6 +20,8 @@ It was developed as part of a frontend assignment to demonstrate clean UI implem
 - CSS3 (Flexbox, Grid, responsive design)
 - Vanilla JavaScript (DOM manipulation and interactions)
 
+
+
 ## Project Structure
 
 
@@ -38,6 +40,7 @@ project-folder
 ├── script.js # Interactive behavior and UI logic
 ├── assets/ # Images and icons
 └── README.md # Project documentation
+
 
 
 
